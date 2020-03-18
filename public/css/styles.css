@@ -1,0 +1,1319 @@
+
+.contact-us {
+    background-image: linear-gradient(to right,#f07229,#ff9953);
+    border: none;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    border-radius: 30px;
+    
+}
+
+
+.we-offer-section{
+    margin-top: 300px;
+    margin-bottom: 350px;
+}
+
+.expect-more-section ,.main-banner-section{
+    margin: 150px 50px 50px 50px;
+}
+
+.beyondx-logo {
+    position: absolute;
+    overflow: visible;
+    margin-top: 0;
+}
+
+
+
+.cross_1 {
+    width: 3.816px;
+    height: 37.611px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(-6883px, -4905.477px) matrix(1,0,0,1,6983.4777,4902.6646) rotate(38deg);
+    transform-origin: center;
+}
+
+.cross_2 {
+    width: 3.816px;
+    height: 37.611px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(-6883px, -4905.477px) matrix(1,0,0,1,6983.4776,4907.3887) rotate(-38deg);
+    transform-origin: center;
+}
+
+.logo-text-beyond {
+    position: absolute;
+    left: 0px;
+    top: 7.188px;
+    overflow: visible;
+    width: 91px;
+    white-space: nowrap;
+    line-height: 80px;
+    margin-top: -31px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(37,40,70,1);
+    letter-spacing: 1px;
+}
+
+.logo-text-beyond-footer {
+    position: absolute;
+    left: 0px;
+    top: 7.188px;
+    width: 91px;
+    white-space: nowrap;
+    line-height: 80px;
+    margin-top: -31px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(37,40,70,1);
+    letter-spacing: 1px;
+}
+
+.stand-out-among-competition{
+    overflow: visible;
+    white-space: nowrap;
+    line-height: 78px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    color: rgba(37,40,70,1);
+}
+
+.welcome-to-beyond-tech-vision {
+    line-height: 48px;
+    margin-top: 15px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(157,157,167,1);
+}
+
+.stand-out-button {
+    background-image: linear-gradient(to right,#f07229,#ff9953);
+    border: none;
+    margin-top: 25px;
+    padding: 10px 30px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    border-radius: 30px;
+}
+
+
+.right-content{
+    margin: 30px 30px 30px 30px
+}
+
+.x-background-svg {
+    position: absolute;
+    width: 766.495px;
+    left: -134px;
+    top: 700px;
+    overflow: visible;
+}
+
+.x-big-bg-cross_1 {
+    width: 188.64px;
+    height: 893.121px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(8px, -528px) matrix(1,0,0,1,281.2531,464.4564) rotate(-45deg);
+    transform-origin: center;
+}
+
+.x-big-bg-cross_2 {
+    width: 181.963px;
+    height: 902.024px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(8px, -528px) matrix(1,0,0,1,284.2658,460.2352) rotate(45deg);
+    transform-origin: center;
+}
+
+.we-offer {
+    overflow: visible;
+    line-height: 92px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    color: rgba(37,40,70,1);
+}
+
+.we-love-to-work-with-startups {
+    overflow: visible;
+    line-height: 92px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 16px;
+    color: rgba(157,157,167,1);
+}
+
+.card-1 {
+    overflow: visible;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+}
+
+.card-2 {
+    overflow: visible;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+}
+
+.card-3 {
+    overflow: visible;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+}
+
+.card-4 {
+    overflow: visible;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+}
+
+.card-5 {
+    overflow: visible;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+}
+
+.card-1:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  .card-2:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .card-3:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .card-4:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .card-5:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  .card-text {
+    font-size: 23px;
+    color: rgba(37,40,70,1);
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    margin-top: 3.5rem;
+    position: static;
+}
+
+.down-color{
+    height: 3px;
+    width: auto;
+    margin-top: 45px;
+}
+
+.card-sub-text {
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12px;
+    color: rgba(157,157,167,1);
+    letter-spacing: -0.1px;
+}
+
+/* Technology */
+#devices {
+    width: 55.134px;
+    height: 43.188px;
+    overflow: visible;
+    
+}
+
+#Group_12 {
+    position: absolute;
+    width: 55.134px;
+    height: 43.188px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    margin-left: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.Path_10_ci {
+    overflow: visible;
+    position: absolute;
+    width: 55.134px;
+    height: 43.188px;
+    transform: matrix(1,0,0,1,0,0);
+    margin-left: 65px;
+    margin-top: 25px;
+}
+
+#A:hover > div#B {
+    /* code */
+    background-color: #f07229;
+}
+
+#noun_User_Experience_497415 {
+    width: 48.222px;
+    height: 45px;
+    overflow: visible;
+}
+#Group_13 {
+    width: 48.222px;
+    height: 45px;
+    position: absolute;
+    overflow: visible;
+    margin-left: 73px;
+    margin-top: 25px;
+}
+
+.Path_18_co {
+    overflow: visible;
+    position: absolute;
+    width: 20px;
+    height: 18.979px;
+    margin-left: 73px;
+    margin-top: 25px;
+}
+
+.Path_19_cq {
+    overflow: visible;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.Ellipse_8_cu {
+    position: absolute;
+    overflow: visible;
+    width: 2.235px;
+    height: 2.235px;
+    margin-left: -30px;
+    margin-top: 23px;
+}
+
+/* Digitaliztion */
+
+#noun_digital_1060211 {
+    width: 46.071px;
+    height: 45px;
+    overflow: visible;
+
+}
+
+#Group_14 {
+    width: 46.071px;
+    height: 45px;
+    margin-left: 73px;
+    margin-top: 35px;
+    position: absolute;
+}
+.Path_21_cy {
+    overflow: visible;
+    position: absolute;
+    width: 12.857px;
+    height: 12.857px;
+    left: 33.214px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+
+}
+.Path_22_c {
+    overflow: visible;
+    position: absolute;
+    width: 29.464px;
+    height: 28.929px;
+    left: 16.607px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+
+}
+.Path_23_c {
+    overflow: visible;
+    position: absolute;
+    width: 12.857px;
+    height: 12.857px;
+    left: 16.607px;
+    top: 16.071px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_24_c {
+    overflow: visible;
+    position: absolute;
+    width: 12.857px;
+    height: 12.857px;
+    left: 0px;
+    top: 32.143px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_25_c {
+    overflow: visible;
+    position: absolute;
+    width: 46.071px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+/* Visualization */
+#noun_visualization_1246402 {
+    width: 58.313px;
+    height: 45px;
+    overflow: visible;
+}
+#Group_19 {
+    width: 58.313px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+
+}
+#Group_15 {
+    width: 58.313px;
+    height: 31.984px;
+    left: 0px;
+    top: 6.508px;
+    overflow: visible;
+}
+.Path_26_db {
+    overflow: visible;
+    position: absolute;
+    width: 31.984px;
+    height: 31.984px;
+    left: 13.164px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+   margin-left: 83px;
+    margin-top: 40px;
+}
+.Path_27_dd {
+    overflow: visible;
+    position: absolute;
+    width: 11.422px;
+    height: 11.424px;
+    left: 23.446px;
+    top: 10.28px;
+    transform: matrix(1,0,0,1,0,0);
+   margin-left: 83px;
+    margin-top: 40px;
+}
+.Path_28_df {
+    overflow: visible;
+    position: absolute;
+    width: 58.313px;
+    height: 31.984px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+   margin-left: 83px;
+    margin-top: 40px;
+}
+#Group_16 {
+    width: 45px;
+    height: 45px;
+    left: 6.656px;
+    top: 0px;
+    overflow: visible;
+   margin-left: 90px;
+    margin-top: 35px;
+}
+.Path_29_di {
+    overflow: visible;
+    position: absolute;
+    width: 7.404px;
+    height: 7.404px;
+    left: 37.596px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+   margin-left: 90px;
+    margin-top: 35px;
+}
+.Path_30_dk {
+    overflow: visible;
+    position: absolute;
+    width: 7.404px;
+    height: 7.404px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+   margin-left: 90px;
+    margin-top: 35px;
+}
+.Path_31_dm {
+    overflow: visible;
+    position: absolute;
+    width: 7.404px;
+    height: 7.405px;
+    left: 37.596px;
+    top: 37.595px;
+    transform: matrix(1,0,0,1,0,0);
+   margin-left: 90px;
+    margin-top: 35px;
+}
+.Path_32_do {
+    overflow: visible;
+    position: absolute;
+    width: 7.404px;
+    height: 7.405px;
+    left: 0px;
+    top: 37.595px;
+    transform: matrix(1,0,0,1,0,0);
+   margin-left: 90px;
+    margin-top: 35px;
+}
+#Group_17 {
+    width: 10.781px;
+    height: 1.869px;
+    top: 0px;
+    overflow: visible;
+   margin-left: 90px;
+    margin-top: 35px;
+}
+.Rectangle_60_dr {
+    position: absolute;
+    overflow: visible;
+    width: 2.156px;
+    height: 1.869px;
+    left: 0px;
+    top: 0px;
+   margin-left: 90px;
+    margin-top: 35px;
+}
+.Rectangle_61_dt {
+    position: absolute;
+    overflow: visible;
+    width: 2.158px;
+    height: 1.869px;
+    left: 4.311px;
+    top: 0px;
+   margin-left: 90px;
+    margin-top: 35px;
+}
+.Rectangle_62_dv {
+    position: absolute;
+    overflow: visible;
+    width: 2.156px;
+    height: 1.869px;
+    left: 8.625px;
+    top: 0px;
+   margin-left: 90px;
+    margin-top: 35px;
+}
+#Group_18 {
+    width: 10.781px;
+    height: 1.869px;
+    left: 23.766px;
+    top: 43.131px;
+    overflow: visible;
+   margin-left: 90px;
+    margin-top: 35px;
+}
+.Rectangle_63_dy {
+    position: absolute;
+    overflow: visible;
+    width: 2.156px;
+    height: 1.869px;
+    left: 0px;
+    top: 0px;
+   margin-left: 90px;
+    margin-top: 35px;
+}
+.Rectangle_64_d {
+    position: absolute;
+    overflow: visible;
+    width: 2.158px;
+    height: 1.869px;
+    left: 4.311px;
+    top: 0px;
+   margin-left: 90px;
+    margin-top: 35px;
+}
+.Rectangle_65_d {
+    position: absolute;
+    overflow: visible;
+    width: 2.156px;
+    height: 1.869px;
+    left: 8.625px;
+    top: 0px;
+   margin-left: 90px;
+    margin-top: 35px;
+}
+
+/* Branding */
+#performance {
+    width: 45px;
+    height: 45px;
+}
+.Path_33_d {
+    overflow: visible;
+    position: absolute;
+    width: 45px;
+    height: 34.453px;
+    left: 0px;
+    top: 10.547px;
+    transform: matrix(1,0,0,1,0,0);
+    margin-left: 93px;
+    margin-top: 35px;
+}
+.Path_34_d {
+    overflow: visible;
+    position: absolute;
+    width: 13.271px;
+    height: 2.637px;
+    left: 5.273px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+    margin-left: 73px;
+    margin-top: 35px;
+}
+.Ellipse_9_d {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 0.5px;
+    top: 0px;
+    margin-left: 73px;
+    margin-top: 35px;
+}
+.Path_35_eb {
+    overflow: visible;
+    position: absolute;
+    width: 13.271px;
+    height: 2.637px;
+    left: 5.273px;
+    top: 5.273px;
+    transform: matrix(1,0,0,1,0,0);
+    margin-left: 73px;
+    margin-top: 35px;
+}
+.Ellipse_10_ed {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 3px;
+    left: 0.5px;
+    top: 5px;
+    margin-left: 73px;
+    margin-top: 35px;
+}
+.Path_36_ef {
+    overflow: visible;
+    position: absolute;
+    width: 13.271px;
+    height: 2.637px;
+    left: 5.273px;
+    top: 10.547px;
+    margin-left: 73px;
+    margin-top: 35px;
+}
+.Ellipse_11_eh {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 0.5px;
+    top: 11px;
+    margin-left: 73px;
+    margin-top: 35px;
+}
+
+#Expert_more_than__Design_and_D {
+    left: 83px;
+    top: 1428.5px;
+    overflow: visible;
+    width: 433px;
+    white-space: nowrap;
+    line-height: 64px;
+    margin-top: -16px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    color: rgba(37,40,70,1);
+}
+
+#BeyondX_is_a_complete_creative {
+    overflow: visible;
+    width: 474px;
+    height: 188px;
+    line-height: 38px;
+    margin-top: -11px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 16px;
+    color: rgba(157,157,167,1);
+}
+
+#Client___Partners {
+    width: auto;
+    white-space: nowrap;
+    line-height: 92px;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    color: rgba(37,40,70,1);
+}
+
+#Want_to_expose_your_portfolio_ {
+    line-height: 92px;
+    margin-top: -38px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12px;
+    color: rgba(157,157,167,1);
+}
+
+.clients-partners-section{
+    margin-top: 150px;
+    background-color: rgba(247,247,247,1);
+    width: auto;
+}
+
+#quote {
+    position: absolute;
+    width: 473.589px;
+    height: 469px;
+    overflow: visible;
+}
+
+.Path_8_b {
+    overflow: visible;
+    position: absolute;
+    width: 228.96px;
+    height: 468.996px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_9_b {
+    overflow: visible;
+    position: absolute;
+    width: 228.529px;
+    height: 468.569px;
+    left: 350px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+#What_they_say {
+    overflow: visible;
+    white-space: nowrap;
+    line-height: 92px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    color: rgba(37,40,70,1);
+}
+
+#Based_upon_the_information_you {
+    line-height: 36px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 16px;
+    color: rgba(157,157,167,1);
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+#_I_must_say_the_documentation_ {
+    line-height: 48px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(37,40,70,1);
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+#Castel_bales {
+    line-height: 48px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(37,40,70,1);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#Complete_CRM_support_and__main {
+    line-height: 48px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(37,40,70,1);
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.progress{
+    margin-top: 25px;
+    margin-bottom: 20px;
+    background: white;
+}
+#myProgress {
+    width: 20%;
+    background-color: rgba(245,245,245,1);
+    border-radius: 30px;
+    height: 10px;
+  }
+  
+  #myBar {
+    width: 20%;
+    height: 10px;
+    background-image: linear-gradient(to right,#f07229,#ff9953);
+    border-radius: 30px;
+  }
+
+ .testi-logo{
+     text-align: center;
+ }
+
+ .testimonials{
+     margin-top: 5px;
+    
+ }
+
+ .find-solution{
+    background-color: #F07229;
+    text-align: center;
+    margin-top: 20px;
+    }
+
+ #We_will_help_to_find_solution_ {
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    margin-top: 20px;
+    color: rgba(253,253,254,1);
+}
+.find-sol-button {
+    background-color: white;
+    padding: 10px 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    color:  #F07229;
+    border-radius: 30px;
+    
+}
+
+.footer-brand {
+    width: 91px;
+    white-space: nowrap;
+    line-height: 80px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(245,245,245,1);
+    letter-spacing: 1px;
+}
+
+.beyondx-logo-footer{
+    position: absolute;
+    overflow: visible;
+    margin: 50px 0px 0px 50px;
+}
+
+
+#We_love_to_work_with_startups__e {
+    overflow: visible;
+    width: 500px;
+    height: 90px;
+    line-height: 20px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12px;
+    color: rgba(253,253,254,1);
+    padding: 120px 50px 25px 50px;
+}
+
+#Contact_details {
+    overflow: visible;
+    width: 144px;
+    white-space: nowrap;
+    line-height: 92px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(253,253,254,1);
+}
+
+#reach_beyondx_in {
+    overflow: visible;
+    width: 111px;
+    white-space: nowrap;
+    line-height: 45px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12px;
+    color: rgba(247,247,247,1);
+}
+
+#ID101_Natesan_nagar__Ramapuram {
+    overflow: visible;
+    width: 280px;
+    white-space: nowrap;
+    line-height: 92px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12px;
+    color: rgba(247,247,247,1);
+}
+
+#Group_25 {
+    width: 99px;
+    height: 51px;
+    overflow: visible;
+}
+
+#_91_9790_8623_97__91_8903_0107 {
+    overflow: visible;
+    width: 100px;
+    white-space: nowrap;
+    line-height: 36px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12px;
+    color: rgba(247,247,247,1);
+}
+
+#Follow_us_on {
+    position: absolute;
+    overflow: visible;
+    width: 120px;
+    white-space: nowrap;
+    line-height: 92px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(253,253,254,1);
+}
+
+.linkedin {
+    overflow: visible;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 100px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+#facebook {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 70px;
+    top: 100px;
+    overflow: visible;
+}
+.Path_39 {
+    overflow: visible;
+    position: absolute;
+    width: 0.853px;
+    height: 0.128px;
+    left: 20.22px;
+    top: 35.557px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_40 {
+    overflow: visible;
+    position: absolute;
+    width: 0.406px;
+    height: 0.071px;
+    left: 20.935px;
+    top: 35.441px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_41 {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 0.099px;
+    left: 19.26px;
+    top: 35.779px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_42 {
+    overflow: visible;
+    position: absolute;
+    width: 0.479px;
+    height: 0.06px;
+    left: 20.014px;
+    top: 35.7px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_43 {
+    overflow: visible;
+    position: absolute;
+    width: 0.359px;
+    height: 0.075px;
+    left: 21.461px;
+    top: 35.258px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_44 {
+    overflow: visible;
+    position: absolute;
+    width: 0.289px;
+    height: 0.08px;
+    left: 22.729px;
+    top: 34.687px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_45 {
+    overflow: visible;
+    position: absolute;
+    width: 0.315px;
+    height: 0.082px;
+    left: 22.341px;
+    top: 34.877px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_46 {
+    overflow: visible;
+    position: absolute;
+    width: 0.335px;
+    height: 0.075px;
+    left: 21.846px;
+    top: 35.104px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_47 {
+    overflow: visible;
+    position: absolute;
+    width: 0.537px;
+    height: 0.041px;
+    left: 19.093px;
+    top: 35.879px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_48 {
+    overflow: visible;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_49 {
+    overflow: visible;
+    position: absolute;
+    width: 1.066px;
+    height: 0.053px;
+    left: 18.362px;
+    top: 35.924px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_50 {
+    overflow: visible;
+    position: absolute;
+    width: 0.564px;
+    height: 0.014px;
+    left: 18.18px;
+    top: 35.978px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+.twitter {
+    overflow: visible;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 125px;
+    top: 100px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+#instagram {
+    position: absolute;
+    width: 35.944px;
+    height: 35.944px;
+    left: 180px;
+    top: 100px;
+    overflow: visible;
+}
+
+.Path_51 {
+    overflow: visible;
+    position: absolute;
+    width: 6.88px;
+    height: 6.88px;
+    left: 14.532px;
+    top: 14.532px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_52 {
+    overflow: visible;
+    position: absolute;
+    width: 16.921px;
+    height: 16.921px;
+    left: 9.511px;
+    top: 9.512px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_53 {
+    overflow: visible;
+    position: absolute;
+    width: 35.944px;
+    height: 35.944px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+.footer{
+    background-color: rgba(19,31,107,1);
+}
+
+
+@media only screen and (max-width: 600px) {
+    .welcome-to-beyond-tech-vision {
+        line-height: 20px;
+        margin-top: 15px;
+        width: auto;
+        text-align: left;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: lighter;
+        font-size: 15px;
+        color: rgba(157,157,167,1);
+    }
+
+    .stand-out-among-competition{
+        overflow: visible;
+        white-space: nowrap;
+        line-height: 50px;
+        text-align: left;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 28px;
+        color: rgba(37,40,70,1);
+    }
+
+    .expect-more-section ,.main-banner-section{
+        margin: 20px 0px 50px 0px;
+    }
+
+    .stand-out-button {
+        background-image: linear-gradient(to right,#f07229,#ff9953);
+        border: none;
+        margin-top: 25px;
+        padding: 7px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 10px;
+        cursor: pointer;
+        color: white;
+        border-radius: 30px;
+    }
+    
+    .we-offer-section{
+        margin-top: 50px;
+        margin-bottom: 150px;
+    }
+
+    .we-love-to-work-with-startups {
+        overflow: visible;
+        line-height: 52px;
+        text-align: center;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: lighter;
+        font-size: 16px;
+        color: rgba(157,157,167,1);
+    }
+
+    .x-background-svg {
+    position: absolute;
+    width: 25px;
+    left: -320px;
+    top: 900px;
+    overflow: visible;
+}
+
+.x-big-bg-cross_1 {
+    width: 120.963px;
+    height: 602.024px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(8px, -528px) matrix(1,0,0,1,281.2531,464.4564) rotate(-45deg);
+    transform-origin: center;
+    background: rgba(247,247,247,1);
+}
+
+.x-big-bg-cross_2 {
+    width: 120.963px;
+    height: 602.024px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(8px, -528px) matrix(1,0,0,1,284.2658,460.2352) rotate(45deg);
+    transform-origin: center;
+    background: rgba(247,247,247,1);
+}
+
+.display-cards{
+    margin-left: 50px;
+}
+
+.tech-card,.exp-card,.digi-card,.visual-card{
+    margin-bottom: 30px;
+}
+
+#Expert_more_than__Design_and_D {
+    line-height: 54px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(37,40,70,1);
+}
+
+#BeyondX_is_a_complete_creative {
+    line-height: 30px;
+    margin-top: -11px;
+    width: auto;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 10px;
+    color: rgba(157,157,167,1);
+}
+
+.clients-partners-section{
+    margin-top: 50px;
+    background-color: rgba(247,247,247,1);
+}
+#Want_to_expose_your_portfolio_ {
+    line-height: 62px;
+    margin-top: 5px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12px;
+    color: rgba(157,157,167,1);
+}
+
+.Path_8_b {
+    overflow: hidden;
+    position: absolute;
+    width: 228.96px;
+    height: 250px;
+    right: 250;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_9_b {
+    overflow: hidden;
+    position: absolute;
+    width: 228.529px;
+    height: 250.569px;
+    left: 170px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+
+#We_will_help_to_find_solution_ {
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    margin-top: 20px;
+    color: rgba(253,253,254,1);
+}
+.find-sol-button {
+    background-color: white;
+    padding: 5px 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    display: inline-block;
+    font-size: 10px;
+    cursor: pointer;
+    color:  #F07229;
+    border-radius: 30px;
+    
+}
+    
+}
