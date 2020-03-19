@@ -28,11 +28,11 @@ fs.readdir(directoryPath, function (err, files) {
     if (err) {
         return console.log(logDate+'Unable to scan directory: ' + err);
     } 
-});
+}); 
 
 app.listen(PORT, function () {
     console.log(logDate+'Application Started');
-});
+}); 
 
 Object.keys(ifaces).forEach(function (ifname) {
   var alias = 0;
@@ -43,8 +43,8 @@ Object.keys(ifaces).forEach(function (ifname) {
     if (alias >= 1) {
       console.log(ifname + ':' + alias, iface.address);
     } else {
-      console.log(logDate+"IP Address: "+iface.address);
-    }
+      console.log(logDate+"IP Address: "+iface.address+`:${PORT}`);
+    } 
     ++alias;
   });
 });
