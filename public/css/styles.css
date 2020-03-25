@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 .main-container{
     margin-left: 2%;
@@ -22,6 +23,10 @@
     margin: 10px 10px 10px 20px; 
 }
 
+.hero-img{
+    height: 550px;
+    width: auto;
+}
 
 
 .we-offer-section{
@@ -733,6 +738,11 @@ overflow-wrap: inherit;
 .find-sol-button {
     padding: 5px 15px;
     font-size: 8px;
+}
+
+.hero-img{
+    height: 300px;
+    width: auto;
 }
 
 
