@@ -68,7 +68,7 @@
 
 
 .Line{
-    padding-left: 2rem;
+    padding-left: 5rem;
     padding-top: 2rem;
     margin-bottom: 50px;
     overflow: hidden;
@@ -77,7 +77,9 @@
 .copy-right{
     color: white;
     margin-bottom: 2rem;
+    margin-top: 2rem;
     overflow: hidden;
+    text-align: center;
 }
 
 @media only screen and (max-width: 600px) {
@@ -139,5 +141,13 @@
     .follow-us-section{
         width: 100%;
     }
+
+    .Line{
+        padding-left: 0rem;
+        padding-top: 2rem;
+        margin-bottom: 50px;
+        overflow: hidden;
+    }
+
 
 }
