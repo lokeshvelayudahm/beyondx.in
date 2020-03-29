@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+
+.beyondx-logo {
+    width: auto;
+    height: 100px;
+    margin-left: 2rem;
+}
+
+.button {
+    background-image: linear-gradient(to right,#f07229,#ff9953);
+    border: none;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    border-radius: 30px;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+        .beyondx-logo {
+            width: auto;
+            height: 50px;
+            margin-left: 0.5rem;
+        }
+
+        .button {
+            background-image: linear-gradient(to right,#f07229,#ff9953);
+            border: none;
+            padding: 7px 15px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 10px;
+            cursor: pointer;
+            color: white;
+            border-radius: 30px;
+        }
+    
+
+}

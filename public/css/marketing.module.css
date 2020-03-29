@@ -1,0 +1,66 @@
+.marketing-heading {
+    line-height: 64px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    color: rgba(37,40,70,1);
+    margin-bottom: 20px;
+}
+
+
+.marketing-text {
+    line-height: 38px;
+    text-align: left;
+    font-family: Montserrat;
+    color: rgba(157,157,167,1);
+}
+
+#Want_to_expose_your_portfolio_ {
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12px;
+    color: rgba(157,157,167,1);
+}
+
+@media only screen and (max-width: 600px) {
+   
+    .expect-more-section{
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+    
+
+    .marketing-heading {
+        line-height: 42px;
+        text-align: center;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 26px;
+        color: rgba(37,40,70,1);
+        margin-bottom: 20px;
+    }
+    
+    
+    .marketing-text {
+        line-height: 38px;
+        text-align: center;
+        font-family: Montserrat;
+        color: rgba(157,157,167,1);
+        font-size: 18px;
+    }
+    
+    #Want_to_expose_your_portfolio_ {
+        text-align: center;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: lighter;
+        font-size: 12px;
+        color: rgba(157,157,167,1);
+    }
+
+}

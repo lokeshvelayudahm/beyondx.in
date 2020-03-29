@@ -1,0 +1,143 @@
+.footer{
+    background-color: rgba(19,31,107,1);
+}
+
+
+.beyondx-logo-footer {
+    width: auto;
+    height: 100px;
+    margin: 25px 0px 0px 50px;
+}
+
+.footer-text {
+    height: 90px;
+    line-height: 20px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12px;
+    color: rgba(253,253,254,1);
+    padding: 20px 50px 25px 50px;
+}
+
+.logo-section{
+    width: 500px;
+}
+
+.footer-contacts-heading {
+    line-height: 32px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(253,253,254,1);
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.footer-contacts-content{
+    text-align: left;
+    line-height: 32px;
+    margin-bottom: 20px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12px;
+    color: rgba(247,247,247,1);
+}
+
+.follow-us-section{
+    width: 50%;
+}
+
+.follow-us {
+    line-height: 92px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(253,253,254,1);
+}
+
+.social-media{
+    padding-right: 20px;
+}
+
+
+
+.Line{
+    padding-left: 2rem;
+    padding-top: 2rem;
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+
+.copy-right{
+    color: white;
+    margin-bottom: 2rem;
+    overflow: hidden;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .beyondx-logo-footer {
+        height: 100px;
+        margin: 25px 0px 0px 90px;
+    }
+
+    .footer-text {
+        width: auto;
+        height: 90px;
+        line-height: 20px;
+        text-align: center;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: lighter;
+        font-size: 10px;
+        color: rgba(253,253,254,1);
+        padding: 20px 50px 25px 50px;
+    }
+    .footer-contacts-heading {
+        line-height: 32px;
+        text-align: center;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        color: rgba(253,253,254,1);
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    
+    .footer-contacts-content{
+        text-align: center;
+        line-height: 32px;
+        margin-bottom: 20px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: lighter;
+        font-size: 12px;
+        color: rgba(247,247,247,1);
+    }
+
+    .follow-us {
+        line-height: 92px;
+        text-align: center;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        color: rgba(253,253,254,1);
+    }
+    
+    .social-media{
+        padding-left: 1.5rem;
+    }
+
+    .follow-us-section{
+        width: 100%;
+    }
+
+}

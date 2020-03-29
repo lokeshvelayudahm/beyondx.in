@@ -1,0 +1,13 @@
+@media only screen and (max-width: 768px) {
+    #Follow_us_on {
+        overflow: hidden;
+        width: fit-content;
+        line-height: 92px;
+        text-align: center;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        color: rgba(253,253,254,1);
+    }
+  }

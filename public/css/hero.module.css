@@ -1,0 +1,58 @@
+.welcome-to-beyond-tech-vision {
+    line-height: 48px;
+    margin-top: 15px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(157,157,167,1);
+}
+
+.stand-out-among-competition{
+    line-height: 78px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    color: rgba(37,40,70,1);
+    padding-bottom: 1.5rem;
+}
+
+.hero-img{
+    height: 550px;
+    width: auto;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .welcome-to-beyond-tech-vision {
+        line-height: 28px;
+        margin-top: 10px;
+        text-align: left;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: lighter;
+        font-size: 8px;
+        color: rgba(157,157,167,1);
+    }
+    
+    .stand-out-among-competition{
+        line-height: 48px;
+        text-align: left;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 28px;
+        color: rgba(37,40,70,1);
+        padding-bottom: 1.5rem;
+    }
+    
+    .hero-img{
+        height: 200px;
+        width: auto;
+    }
+    
+
+}

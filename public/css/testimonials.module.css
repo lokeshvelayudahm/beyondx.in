@@ -1,0 +1,76 @@
+#quote {
+    position: absolute;
+    width: 80%;
+    height: 469px;
+    overflow: hidden;
+}
+
+.testimonials-heading {
+    overflow: visible;
+    white-space: nowrap;
+    line-height: 92px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    color: rgba(37,40,70,1);
+}
+
+.testimonials-sub-content {
+    line-height: 36px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 16px;
+    color: rgba(157,157,167,1);
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.testimonials-Feedback {
+    line-height: 48px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(37,40,70,1);
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.testimonials-name {
+    line-height: 48px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(37,40,70,1);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.testimonials-service {
+    line-height: 48px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(37,40,70,1);
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.testimonials-company{
+    text-align: center;
+}
+
+.testimonials{
+    margin-top: 5px;
+    overflow: hidden;
+   
+}

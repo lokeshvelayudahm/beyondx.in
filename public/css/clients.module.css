@@ -1,0 +1,27 @@
+.client-heading {
+    width: auto;
+    line-height: 92px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    color: rgba(37,40,70,1);
+}
+
+.clients-partners-section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgba(247,247,247,1);
+    overflow: hidden;
+}
+
+.clients-photos{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.cli-gap{
+    margin: 1rem;
+}

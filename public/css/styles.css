@@ -3,52 +3,16 @@
 .main-container{
     margin-left: 2%;
     margin-right: 2%;
-    width: auto;
 }
-.contact-us {
-    background-image: linear-gradient(to right,#f07229,#ff9953);
-    border: none;
-    padding: 10px 30px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    cursor: pointer;
-    color: white;
-    border-radius: 30px;
-    
-}
+
 
 .right-content{
     margin: 10px 10px 10px 20px; 
 }
 
-.hero-img{
-    height: 550px;
-    width: auto;
-}
-
-
-.we-offer-section{
-    margin-top: 200px;
-    margin-bottom: 250px;
-    overflow: hidden;
-}
-
 .expect-more-section ,.main-banner-section{
     overflow: hidden;
     margin-top: 200px;
-}
-
-.beyondx-logo {
-    position: absolute;
-    overflow: visible;
-    margin-top: 0;
-}
-
-.display-items{
-    margin-left: 0px;
-    margin-right: 0px;
 }
 
 
@@ -70,16 +34,9 @@
     transform-origin: center;
 }
 
-.Line{
-    text-align: center;
-    margin-bottom: 50px;
-    overflow: hidden;
-}
 
-.copy-right{
-    color: white;
-    margin-bottom: 4%;
-}
+
+
 
 .logo-text-beyond {
     position: absolute;
@@ -115,28 +72,6 @@
     color: rgba(37,40,70,1);
     letter-spacing: 1px;
 }
-
-.stand-out-among-competition{
-    line-height: 78px;
-    text-align: left;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 48px;
-    color: rgba(37,40,70,1);
-}
-
-.welcome-to-beyond-tech-vision {
-    line-height: 48px;
-    margin-top: 15px;
-    text-align: left;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: lighter;
-    font-size: 18px;
-    color: rgba(157,157,167,1);
-}
-
 
 
 .stand-out-button {
@@ -179,205 +114,6 @@
     transform-origin: center;
 }
 
-.we-offer {
-    line-height: 92px;
-    text-align: center;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 32px;
-    color: rgba(37,40,70,1);
-    width: 80%
-}
-
-.we-love-to-work-with-startups {
-    line-height: 92px;
-    text-align: center;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: lighter;
-    font-size: 16px;
-    color: rgba(157,157,167,1);
-    width: 80%;
-}
-
-.card {
-    overflow: hidden;
-    width: 170px;
-    height: 200px;
-    background-color: white;
-    margin-top: 10px;
-}
-
-.card:hover{
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-  }
-
-
-  .card-display{
-      margin-top: 35px;
-  }
-
-  .card-text {
-    font-size: 23px;
-    color: rgba(37,40,70,1);
-    text-align: center;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: normal;
-    position: static;
-    margin-top: 25px;
-}
-
-.down-color{
-    height: 5px;
-    width: auto;
-    margin-top: 40px;
-}
-
-.card-sub-text {
-    text-align: center;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: lighter;
-    font-size: 12px;
-    color: rgba(157,157,167,1);
-    letter-spacing: -0.1px;
-}
-
-#A:hover > div#B {
-    /* code */
-    background-color: #f07229;
-}
-
-
-#Expert_more_than__Design_and_D {
-    line-height: 64px;
-    text-align: left;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 32px;
-    color: rgba(37,40,70,1);
-    margin-left: 20px;
-    margin-bottom: 20px;
-}
-
-#BeyondX_is_a_complete_creative {
-    word-wrap: break-word;
-    margin-left: 20px;
-    line-height: 38px;
-    margin-top: -11px;
-    text-align: left;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: lighter;
-    font-size: 16px;
-    color: rgba(157,157,167,1);
-}
-
-#Client___Partners {
-    width: auto;
-    line-height: 92px;
-    text-align: center;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 32px;
-    color: rgba(37,40,70,1);
-}
-
-#Want_to_expose_your_portfolio_ {
-    text-align: center;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: lighter;
-    font-size: 12px;
-    color: rgba(157,157,167,1);
-}
-
-.clients-partners-section{
-    padding-top: 50px;
-    padding-bottom: 50px;
-    background-color: rgba(247,247,247,1);
-    overflow: hidden;
-}
-
-.clients-photos{
-    margin-top: 50px;
-    margin-bottom: 50px;
-    text-align: center;
-}
-.cli-gap{
-    margin: 10px 10px 10px 10px;
-}
-
-#quote {
-    position: absolute;
-    width: 80%;
-    height: 469px;
-    overflow: hidden;
-}
-
-#What_they_say {
-    overflow: visible;
-    white-space: nowrap;
-    line-height: 92px;
-    text-align: center;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 32px;
-    color: rgba(37,40,70,1);
-}
-
-#Based_upon_the_information_you {
-    line-height: 36px;
-    text-align: center;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: lighter;
-    font-size: 16px;
-    color: rgba(157,157,167,1);
-    margin-top: 0px;
-    margin-bottom: 50px;
-}
-
-#_I_must_say_the_documentation_ {
-    line-height: 48px;
-    text-align: center;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    color: rgba(37,40,70,1);
-    margin-top: 0px;
-    margin-bottom: 50px;
-}
-
-#Castel_bales {
-    line-height: 48px;
-    text-align: center;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 18px;
-    color: rgba(37,40,70,1);
-    margin-top: 0px;
-    margin-bottom: 0px;
-}
-#Complete_CRM_support_and__main {
-    line-height: 48px;
-    text-align: center;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 18px;
-    color: rgba(37,40,70,1);
-    margin-top: 0px;
-    margin-bottom: 50px;
-}
-
 .progress{
     margin-top: 25px;
     margin-bottom: 20px;
@@ -396,148 +132,6 @@
     background-image: linear-gradient(to right,#f07229,#ff9953);
     border-radius: 30px;
   }
-
- .testi-logo{
-     text-align: center;
- }
-
- .testimonials{
-     margin-top: 5px;
-     overflow: hidden;
-    
- }
-
- .find-solution{
-    background-color: #F07229;
-    text-align: center;
-    margin-top: 20px;
-    overflow: hidden;
-    }
-
- #We_will_help_to_find_solution_ {
-    text-align: center;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 32px;
-    margin-top: 40px;
-    color: rgba(253,253,254,1);
-}
-
-.find-sol-button {
-    background-color: white;
-    padding: 10px 30px;
-    margin-top: 20px;
-    margin-bottom: 40px;
-    border: none;
-    display: inline-block;
-    font-size: 16px;
-    cursor: pointer;
-    color:  #F07229;
-    border-radius: 30px;
-    
-}
-
-.footer-brand {
-    overflow-wrap: break-word;
-    overflow: inherit;
-    white-space: nowrap;
-    line-height: 80px;
-    text-align: left;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    color: rgba(245,245,245,1);
-    letter-spacing: 1px;
-    margin-left: 40px;
-}
-
-.beyondx-logo-footer{
-    overflow: hidden;
-    margin: 50px 0px 0px 50px;
-}
-
-
-#We_love_to_work_with_startups__e {
-    width: 500px;
-    height: 90px;
-    line-height: 20px;
-    text-align: left;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: lighter;
-    font-size: 12px;
-    color: rgba(253,253,254,1);
-    padding: 20px 50px 25px 50px;
-}
-
-#Contact_details {
-    overflow: hidden;
-    width: 144px;
-    line-height: 92px;
-    text-align: left;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 18px;
-    color: rgba(253,253,254,1);
-}
-
-#reach_beyondx_in {
-    white-space: nowrap;
-    line-height: 45px;
-    text-align: left;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: lighter;
-    font-size: 12px;
-    color: rgba(247,247,247,1);
-}
-
-#ID101_Natesan_nagar__Ramapuram {
-    line-height: 22px;
-    margin-bottom: 20px;
-    text-align: left;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: lighter;
-    font-size: 12px;
-    color: rgba(247,247,247,1);
-}
-
-#_91_9790_8623_97__91_8903_0107 {
-    line-height: 36px;
-    text-align: left;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: lighter;
-    font-size: 12px;
-    color: rgba(247,247,247,1);
-}
-
-#Follow_us_on {
-    overflow: hidden;
-    width: fit-content;
-    line-height: 92px;
-    text-align: center;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 18px;
-    color: rgba(253,253,254,1);
-}
-
-
-.footer{
-    background-color: rgba(19,31,107,1);
-}
-
-.display-items{
-    margin-left: 0px;
-    margin-right: 0px;
-}
-
 
 @media only screen and (max-width: 600px) {
     .display-items{
@@ -586,6 +180,7 @@
     }
     
     .we-offer-section{
+        position: relative;
         margin-top: 50px;
         margin-bottom: 150px;
     }
@@ -636,7 +231,7 @@
 
 #BeyondX_is_a_complete_creative {
     margin-left: 0px;
-    text-align: center;
+    text-align: left;
 }
 
 #Client___Partners{
@@ -669,12 +264,12 @@ overflow-wrap: inherit;
 
 #ID101_Natesan_nagar__Ramapuram {
     text-align: center;
-    margin-left: 25%;
+    padding: 0;
 }
 
 #_91_9790_8623_97__91_8903_0107 {
     text-align: center;
-    margin-left: 37%;
+    padding-left: 8rem;
 }
 
 #Follow_us_on {
@@ -716,11 +311,12 @@ overflow-wrap: inherit;
 #Expert_more_than__Design_and_D {
     margin-top: 10px;
     margin-left: 0px;
-    line-height: 44px;
-    text-align: center;
-    font-size: 20px;
-    height: fit-content;
+    text-align: left;
+    padding: 0px 0px 0px 1rem;
+    font-size: 25px;
+    width: 80%;
 }
+
 .we-offer-section{
     margin-bottom: 80px;
 }

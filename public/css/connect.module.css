@@ -1,0 +1,49 @@
+.connect-heading {
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    margin:2rem;
+    padding-top: 2rem;
+    color: rgba(253,253,254,1);
+}
+
+.connect-button{
+    margin:2rem;
+    background: white;
+    color: #F07229;
+}
+
+.find-solution{
+    background-color: #F07229;
+    text-align: center;
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .connect-heading {
+        text-align: center;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 22px;
+        margin:2rem;
+        padding-top: 2rem;
+        color: rgba(253,253,254,1);
+    }
+    
+    .connect-button{
+        margin:2rem;
+        background: white;
+        color: #F07229;
+    }
+    
+    .find-solution{
+        background-color: #F07229;
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    }
